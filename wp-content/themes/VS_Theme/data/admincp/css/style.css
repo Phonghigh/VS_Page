@@ -1,0 +1,67 @@
+ul.admincp_list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+h3.title_admin {
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+
+ul.admincp_list li {
+    float: left;
+    margin: 5px;
+}
+
+.clear{
+    clear: both;
+}
+
+.lietke_sp th{
+    /* border: 1px solid black; */
+    /* width: 100px; */
+    /* overflow: hidden; */
+    /* text-align: center; */
+    /* width: 200px; */
+    padding-inline: 20px;
+    /* height: 100px; */
+    /* background: azure; */
+}
+
+.lietke_sp tr td img{
+    height: 300px;
+}
+
+.them_sp tr td{
+    height: 30px;
+}
+
+.them_sp tr td input{
+    height: 30px;
+}
+
+.sua_sp{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.sua_sp tr td{
+    width: 200px;
+}
+
+input{
+    width: 90%;
+}
+textarea{
+    width: 90%;
+}
+
+.Exit{
+    padding: 10px;
+    background: gray;
+    color: white;
+    float: right;
+    margin-right: 50px;
+}
